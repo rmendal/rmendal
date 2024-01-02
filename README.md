@@ -42,7 +42,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools:
  **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Go
-**Environments:** Cloud, Linux, MacOS
+**Environments:** Cloud, Linux, MacOS<br>
 **Methodologies and Practices:** AGILE, SCRUM, and DevOps
 **Automation and Scripting Tools:** Bash
 **Containerization and Orchestration Tools:** Docker and Kubernetes.
