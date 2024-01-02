@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 <!--Introduction -->
-I'm Robert! I'm an **SRE and DevOps Professional**, looking to solve real-world problems. I'm passionate about all things automation and helping make it easier and safer for devs I work with to build cool things.
+I'm Robert! I'm an **SRE and DevOps Professional**, looking to solve real-world problems. I'm passionate about all things automation, helping make it easier and, safer for the devs I work with to build cool things.
 
 
+### 📫 How to reach me:
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-RobertMendal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mendal)
 [![Gmail](https://img.shields.io/badge/-rmendal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rmendal@gmail.com)
 
 
 ### 💼  Things that I'm currently working on:
-* Getting proficient with <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Go
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+* Increasing my proficiency with Go
+* Integrating [OpenTelemetry](https://opentelemetry.io) into the [API I built](https://robertmendal.dev/post/building-a-woin-api/) using Go
+* Growing my AWS skillset by studying for the AWS Solutions Architect Professional certification
 
-### 🌱 Challenges that I’m currently challenging myself:
+<!--### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running:
 
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. )
@@ -38,19 +38,28 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Workout:weight_lifting_man: 3 days in a row and take a day break
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
-* 🔜
+* 🔜 -->
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
+ ### Languages and Tools:
+ **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Go
+**Environments:** Cloud, Linux, MacOS
+**Methodologies and Practices:** AGILE, SCRUM, and DevOps
+**Automation and Scripting Tools:** Bash
+**Containerization and Orchestration Tools:** Docker and Kubernetes.
+**Cloud Infrastructure and Services:** AWS, and Google Cloud Platform.
+**Infrastructure as Code and Configuration Management Tools:**  Terraform, Ansible, Puppet.
+**Monitoring and Logging Tools:** Datadog, Prometheus, Nagios, and Grafana
+**Continuous Integration & Continuous Delivery (CI/CD) Processes and Tools:** GitLab CI/CD and GitHub Actions.
+<!-- <p> <!-- GitHub README Stats -->
+  <!-- <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats"
          src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
+  <!--</a>
  <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+<!--<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
 <code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
 <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
 <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
@@ -78,13 +87,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
-</p>
+</p> -->
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
-### Credit to
-- [**GIPHY**](https://giphy.com/) for GIFs.
+<h4 align="center"> Thanks for Visiting!</h4>
 
 
 
@@ -102,5 +107,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
