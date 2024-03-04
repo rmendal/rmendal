@@ -44,12 +44,11 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
  **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Go<br>
 **Environments:** Cloud, Linux, MacOS<br>
 **Methodologies and Practices:** AGILE, SCRUM, and DevOps<br>
-**Automation and Scripting Tools:** Bash<br>
 **Containerization and Orchestration Tools:** Docker and Kubernetes<br>
 **Cloud Infrastructure and Services:** AWS, and Google Cloud Platform<br>
 **Infrastructure as Code and Configuration Management Tools:**  Terraform, Ansible, Puppet<br>
-**Monitoring and Logging Tools:** Datadog, Prometheus, Nagios, and Grafana<br>
-**Continuous Integration & Continuous Delivery (CI/CD) Processes and Tools:** GitLab CI/CD and GitHub Actions<br>
+**Monitoring and Logging Tools:** Prometheus, Grafana, Loki<br>
+**CI/CD Processes and Tools:** GitLab CI/CD and GitHub Actions<br>
 <!-- <p> <!-- GitHub README Stats -->
   <!-- <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats"
