@@ -28,7 +28,7 @@ I'm Robert! I'm an **SRE and DevOps Professional**, looking to solve real-world 
 ### 💼  Things that I'm currently working on:
 * Increasing my proficiency with Go
 * Integrating [OpenTelemetry](https://opentelemetry.io) into the [API I built](https://robertmendal.dev/post/building-a-woin-api/) using Go
-* Building my own [Linux system with Linux From Scratch](https://www.linuxfromscratch.org).
+* Building my own Linux system with [Linux From Scratch](https://www.linuxfromscratch.org).
 
 <!--### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running:
