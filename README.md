@@ -43,7 +43,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
  ### Languages and Tools:
  **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-go"></span> Go<br>
 **Environments:** Cloud, Linux, MacOS<br>
-**Methodologies and Practices:** AGILE, SCRUM, and DevOps<br>
+**Methodologies and Practices:** Agile, Scrum, and DevOps<br>
 **Containerization and Orchestration Tools:** Docker and Kubernetes<br>
 **Cloud Infrastructure and Services:** AWS, and Google Cloud Platform<br>
 **Infrastructure as Code and Configuration Management Tools:**  Terraform, Ansible, Puppet<br>
