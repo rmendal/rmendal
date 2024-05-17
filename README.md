@@ -47,7 +47,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 **Containerization and Orchestration Tools:** Docker and Kubernetes<br>
 **Cloud Infrastructure and Services:** AWS, and Google Cloud Platform<br>
 **Infrastructure as Code and Configuration Management Tools:**  Terraform, Ansible, Puppet<br>
-**Monitoring and Logging Tools:** Prometheus, Grafana, Loki<br>
+**Monitoring and Observability Tools:** Prometheus, Grafana, Thanos, Alertmanager<br>
 **CI/CD Processes and Tools:** GitLab CI/CD and GitHub Actions<br>
 <!-- <p> <!-- GitHub README Stats -->
   <!-- <a href="https://github.com/JoykishanSharma?tab=repositories">
